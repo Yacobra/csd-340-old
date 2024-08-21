@@ -1,0 +1,58 @@
+/* Set global font size for HTML and body */
+html, body {
+    font-size: 16px;
+}
+
+/* Paragraph styles */
+p {
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+/* Styles for h1 */
+h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* Styles for h2 */
+h2 {
+    font-weight: 500;
+    text-align: left;
+    padding-top: 15px;
+}
+
+/* Address styles */
+address {
+    text-align: center;
+}
+
+/* Styles for website URL */
+address a {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #4F3674;
+    text-decoration: none;
+}
+
+/* Hover and visited states for website link */
+address a:hover {
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+
+address a:visited {
+    /* Styling for visited links */
+    color: #6D4F77;
+}
+
+/* Styles for the .sentence class */
+.sentence {
+    font-style: italic;
+}
+
+/* Styles for the .intro class */
+.intro {
+    text-indent: 2em;
+}
