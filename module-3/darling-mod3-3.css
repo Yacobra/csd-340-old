@@ -1,0 +1,51 @@
+/* Center the H1 title on the page */
+h1 {
+    text-align: center;
+}
+
+/* Set the width of the side-by-side divs */
+.left-div, .right-div {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Set the width of the last div */
+.bottom-div {
+    width: 100%;
+    margin-top: 60px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+/* Set the weight of the h3 tags */
+h3 {
+    font-weight: 500;
+}
+
+/* Set the weight of the ordered and unordered lists */
+ol, ul {
+    font-weight: 300;
+    padding: 10px;
+}
+
+/* Style for the ordered list */
+ol {
+    border: 1px solid red;
+    border-radius: 15px;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+/* Style for the unordered list */
+ul {
+    border: 1px dashed red;
+    border-radius: 15px;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+/* Link hover styles */
+a:hover {
+    text-decoration: underline;
+}
