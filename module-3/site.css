@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    background-color: #2D2D2D; /* Dark background color */
+    color: #FFFFFF;            /* White text color for contrast */
+    border: 1px solid #D6A800; /* Border color */
+    padding: 10px;
+}
+
+a {
+    color: #D6A800;            /* Color that blends in with color scheme */
+    text-decoration: none;     /* Remove underline from links */
+}
+
+a:hover {
+    color: #FFD700;            /* Lighter gold on hover */
+}
+
+a:visited {
+    color: #B8860B;            /* Dimmed color for visited links */
+}
