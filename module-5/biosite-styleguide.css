@@ -1,0 +1,39 @@
+body {
+    background-color: #ffd6ff;
+    color: #0b18aa;
+    font-family: Helvetica, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", serif;
+}
+
+.description {
+    font-family: "Courier New", monospace;
+}
+
+h1 {
+    color: #5d1a8d;
+}
+
+h2 {
+    color: #542ccc;
+}
+
+h3 {
+    color: #2c69cb;
+}
+
+h4 {
+    color: #256ea9;
+}
+
+h5 {
+    color: #9f01c7;
+}
+
+h6 {
+    color: #2b39d1;
+}
