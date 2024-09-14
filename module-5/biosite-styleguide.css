@@ -37,3 +37,16 @@ h5 {
 h6 {
     color: #2b39d1;
 }
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #256ea9;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #2b39d1;
+    color: #ffd6ff;
+}
